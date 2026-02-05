@@ -24,13 +24,13 @@ repository               : "Long.li-hub/longli-hub.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Long Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral researcher in applied mathematics"
+  location         : "Linz, Austria"
+  employer         : "Johan Radon Institute, Austrian Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Long.Li@ricam.oeaw.ac.at" 
 
   # Academic websites
   academia         : # URL
