@@ -1,7 +1,7 @@
 ---
 title: " Interface with weakly singular points always scatter"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/2018-05-08-paper-title-number-1
 #excerpt: "This paper is about the number 1. The number 2 is left for future work."
 date: "2018-05-08"
