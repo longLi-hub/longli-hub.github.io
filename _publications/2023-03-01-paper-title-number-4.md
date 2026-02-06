@@ -2,7 +2,7 @@
 title: "Piecewise-analytic interfaces with weakly
 singular points of arbitrary order always scatter"
 collection: publications
-category: published
+category: journal
 permalink: /publication/2023-03-01-paper-title-number-4
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-03-01
