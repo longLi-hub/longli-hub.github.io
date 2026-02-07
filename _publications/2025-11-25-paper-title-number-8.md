@@ -1,7 +1,7 @@
 ---
 title: "Uniform space and time behavior for acoustic resonators"
 collection: publications
-category: accpeted
+category: manuscripts
 permalink: /publications/2025-11-25-paper-title-number-8
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-11-25
