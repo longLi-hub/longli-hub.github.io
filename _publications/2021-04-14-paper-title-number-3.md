@@ -6,6 +6,7 @@ category:  manuscripts
 permalink: /publications/2021-04-14-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-04-14
+status: Published
 venue: 'Inverse problems'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1088/1361-6420/abec1d'
