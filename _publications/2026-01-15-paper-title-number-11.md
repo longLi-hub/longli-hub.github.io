@@ -2,7 +2,7 @@
 title: "High contrast transmission resonance for the Lamé system"
 collection: publications
 category: submitted
-permalink: /publication/2026-01-15-paper-title-number-11
+permalink: /publications/2026-01-15-paper-title-number-11
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-01-15
 #venue: 'Journal 1'
