@@ -9,6 +9,6 @@ status: Preprint
 #venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2601.10290'
-citation: 'L. Li and M. Sini, "High contrast transmission resonance for the Lamé system",
+citation: 'L. Li and M. Sini, High contrast transmission resonance for the Lamé system,
 arXiv:2601.10290.'
 ---
