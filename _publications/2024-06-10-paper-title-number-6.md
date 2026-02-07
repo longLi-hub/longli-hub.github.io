@@ -6,6 +6,7 @@ category:  manuscripts
 permalink: /publications/2024-06-10-paper-title-number-6
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-06-10
+status: Published
 venue: 'SIAM Journal on Mathematical Analysis'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1137/22M1525910'
