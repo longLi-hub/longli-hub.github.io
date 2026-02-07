@@ -2,7 +2,7 @@
 title: "A Nyström method for scattering by a two-layered medium with a rough boundary"
 collection: publications
 category: journal
-permalink: /publication/2026-03-05-paper-title-number-7
+permalink: /publications/2026-03-05-paper-title-number-7
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-03-15
 venue: 'Journal of Computational and Applied Mathematics'
