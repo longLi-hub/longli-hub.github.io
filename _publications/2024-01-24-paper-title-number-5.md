@@ -10,8 +10,8 @@ date: 2024-01-24
 status: Published
 venue: 'SIAM Journal On Imaging Sciences'
 paperurl: 'https://doi.org/10.1137/23M1571393'
-citation: 'L. Li, J. Yang, B. Zhang and H. Zhang, "Direct imaging methods
+citation: 'L. Li, J. Yang, B. Zhang and H. Zhang, Direct imaging methods
 for reconstructing locally rough interfaces from phaseless total-field data or phased
-far-field data", SIAM Journal On Imaging Sciences 17 (2024), 188-224.'
+far-field data, SIAM Journal On Imaging Sciences 17 (2024), 188-224.'
 ---
 
