@@ -10,11 +10,11 @@
 main:
 
   - title: "Home"
-    url: "./"
+    url: "{{ site.baseurl }}/"
   - title: "CV"
     url: "{{ site.baseurl }}/cv/"
   - title: "Publications"
-    url: "/long.li.github.io/publications/"
+    url: "{{ site.baseurl }}/publications/"
 
   #- title: "Career"
   # url: /career/
