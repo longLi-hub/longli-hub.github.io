@@ -14,9 +14,8 @@ main:
   - title: "CV"
     url: "{{ site.baseurl }}/cv/"
   - title: "Publications"
-    url: "{{ site.baseurl }}/publications/"
+    url: "/long.li.github.io/publications/"
 
-  
   #- title: "Career"
   # url: /career/
   
