@@ -9,7 +9,7 @@ status: Published
 venue: 'Journal of Computational and Applied Mathematics'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1016/j.cam.2025.116994'
-citation: 'H. Liu, L. Li, J. Yang, B. Zhang and H. Zhang, "A Nyström
-method for scattering by a two-layered medium with a rough boundary", Journal of
+citation: 'H. Liu, L. Li, J. Yang, B. Zhang and H. Zhang, A Nyström
+method for scattering by a two-layered medium with a rough boundary, Journal of
 Computational and Applied Mathematics 475 (2026), 116994.'
 ---
