@@ -5,6 +5,7 @@ category: journal
 permalink: /publications/2026-03-05-paper-title-number-7
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-03-15
+status: Published
 venue: 'Journal of Computational and Applied Mathematics'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1016/j.cam.2025.116994'
