@@ -10,7 +10,7 @@ status: Published
 venue: 'Inverse Problems'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.1088/1361-6420/aafe96'
-citation: 'G. Hu, L. Li and J. Zou, "Unique determination of a penetrable scatterer
-of rectangular type for inverse Maxwell equations by a single incoming wave", Inverse
+citation: 'G. Hu, L. Li and J. Zou, Unique determination of a penetrable scatterer
+of rectangular type for inverse Maxwell equations by a single incoming wave, Inverse
 Problems 35 (2019), 035006.'
 ---
