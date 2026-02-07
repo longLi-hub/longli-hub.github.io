@@ -2,7 +2,7 @@
 title: "Unique determination of a penetrable scatterer
 of rectangular type for inverse Maxwell equations by a single incoming wave"
 collection: publications
-category: journal
+category:  manuscripts
 permalink: /publications/2019-02-04-paper-title-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-02-04
