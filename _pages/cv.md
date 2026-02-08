@@ -14,20 +14,20 @@ redirect_from:
 Education
 ======
 * 2016.07 - 2021.06, PhD in Mathematics
-  * School of Mathematical Sciences, Peking University, China
+  * School of Mathematical Sciences, Peking University, Beijing, China
   * Supervisor: Prof. JianSheng Yang
 
 * 2012.09 - 2016.07, Bachelor in Mathematics
-  * School of Mathematics and Statistics, Xidian University, China
+  * School of Mathematics and Statistics, Xidian University, Xian, China
 
 Work experience
 ======
 * 2024.02 - present, Research Scientist
-  * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
+  * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences, Linz, Austria
   * Mentor: Prof. Mourad Sini
 
 * 2021.07 - 2024.01, Postdoctoral Fellow
-   * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+   * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
    * Mentor: Prof. Bo Zhang
 
 {% comment %}
