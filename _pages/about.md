@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at RICAM (Austrian Academy of Sciences). 
-For my full academic profile and CV, please see [Career]({{ site.baseurl }}/cv/).
+I am a postdoctoral researcher at RICAM (Austrian Academy of Sciences). For my full academic profile and CV, please see [Career]({{ site.baseurl }}/cv/).
+
+My work sits at the interface of PDE analysis, numerical methods, and wave physics, with a focus on wave scattering, inverse scattering, and resonance phenomena in complex media.
 
 My research interests include:
-* Wave propagation and resonance phenomena in high-contrast media
-* inverse problems and imaging
+- wave propagation and resonance phenomena in high-contrast and layered media
+- inverse problems and imaging
 
 
 {% comment %}
