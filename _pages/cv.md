@@ -18,7 +18,7 @@ Education
   * Supervisor: Prof. JianSheng Yang
 
 * 2012.09 - 2016.07, Bachelor in Mathematics
-  * School of Mathematics and Statistics, Xidian University, Xian, China
+  * School of Mathematics and Statistics, Xidian University, Xi'an, China
 
 Work experience
 ======
