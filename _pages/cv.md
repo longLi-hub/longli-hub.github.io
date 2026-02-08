@@ -1,4 +1,4 @@
----
+<img width="904" height="137" alt="image" src="https://github.com/user-attachments/assets/bca6beee-1941-4264-a02e-a24d77cb565b" />---
 layout: archive
 title: ""
 permalink: /cv/
@@ -14,17 +14,17 @@ redirect_from:
 Education
 ======
 * 2016.07 - 2021.06, PhD in Mathematics
-  * School of Mathematical Sciences, Peking University, China.
-  * Supervisor: Prof. JianSheng Yang.
+  * School of Mathematical Sciences, Peking University, China
+  * Supervisor: Prof. JianSheng Yang
 
 * 2012.09 - 2016.07, Bachelor in Mathematics
-  * School of Mathematics and Statistics, Xidian University, China.
+  * School of Mathematics and Statistics, Xidian University, China
 
 Work experience
 ======
 * 2024.02 -present, Research Scientist
   * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Science
-  * Mentor: Prof. Mourad Sini.
+  * Mentor: Prof. Mourad Sini
 
 * 2021.07 - 2024.01, Postdoctoral Fellow
    * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
@@ -63,7 +63,15 @@ Teaching
   
 Awards & Funding
 ======
-* Peking University Presidential Scholarship, five consecutive years (2016–2020).
 
-* China Postdoctoral Science Foundation (first class), Grant No. 2022M720158a, "Uniqueness and efficient reconstruction algorithm for inverse scattering problems in a two-layered medium" (PI, 2022.11-2024.01). 
+* China Postdoctoral Science Foundation (first class), Grant No. 2022M720158a, "Uniqueness and efficient reconstruction algorithm for inverse scattering problems in a two-layered medium" (PI, 2022.11-2024.01)
+
+*  Peking University Presidential Scholarship, five consecutive years (2016.09–2021.06)
+
+Teaching Experience
+===================
+* Teaching Assistant, Advanced Mathematics B, Peking University (2018.09–2019.01; 2020.03–2020.07)
+* Teaching Assistant, Design and Analysis of Algorithms, Peking University (2017.09–2018.01)
+* Teaching Assistant, Advanced Mathematics C, Peking University (2017.03–2017.07)
+
 
