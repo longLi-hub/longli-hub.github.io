@@ -12,6 +12,6 @@ venue: 'SIAM Journal on Mathematical Analysis'
 paperurl: 'https://arxiv.org/abs/2406.02192v4'
 citation: 'L. Li and M. Sini, Uniform resolvent estimates for subwavelength resonators:
 the Minnaert bubble case. To appear in SIAM Journal on
-Mathematical Analysis. Preprint: arxiv:2406.02192v4.'
+Mathematical Analysis. Preprint: arXiv:2406.02192v4.'
 ---
 
