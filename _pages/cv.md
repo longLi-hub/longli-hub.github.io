@@ -64,7 +64,7 @@ Teaching
 Awards & Funding
 ======
 
-* China Postdoctoral Science Foundation (first class), Grant No. 2022M720158a, "Uniqueness and efficient reconstruction algorithm for inverse scattering problems in a two-layered medium" (PI, 2022.11-2024.01)
+* China Postdoctoral Science Foundation (first class), Grant No. 2022M720158a, "Uniqueness and efficient reconstruction algorithm for inverse scattering problems in a two-layered medium" (PI, 2022.11 - 2024.01)
 
 *  Peking University Presidential Scholarship, five academic years (2016.09 – 2021.06)
 
