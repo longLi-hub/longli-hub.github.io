@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a class="btn btn--primary" href="{{ site.baseurl }}/files/cv.pdf" download>Download full CV (PDF)</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/files/Resume.pdf" download>Download full CV (PDF)</a>
 
 Education
 ======
