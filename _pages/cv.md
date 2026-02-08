@@ -22,8 +22,8 @@ Education
 
 Work experience
 ======
-* 2024.02 -present, Research Scientist
-  * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Science
+* 2024.02 - present, Research Scientist
+  * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
   * Mentor: Prof. Mourad Sini
 
 * 2021.07 - 2024.01, Postdoctoral Fellow
@@ -66,12 +66,12 @@ Awards & Funding
 
 * China Postdoctoral Science Foundation (first class), Grant No. 2022M720158a, "Uniqueness and efficient reconstruction algorithm for inverse scattering problems in a two-layered medium" (PI, 2022.11-2024.01)
 
-*  Peking University Presidential Scholarship, five consecutive years (2016.09–2021.06)
+*  Peking University Presidential Scholarship, five academic years (2016.09 – 2021.06)
 
 Teaching Experience
 ===================
-* Teaching Assistant, Advanced Mathematics B, Peking University (2018.09–2019.01; 2020.03–2020.07)
-* Teaching Assistant, Design and Analysis of Algorithms, Peking University (2017.09–2018.01)
-* Teaching Assistant, Advanced Mathematics C, Peking University (2017.03–2017.07)
+* Teaching Assistant, Advanced Mathematics B, Peking University (2018.09 – 2019.01; 2020.03 – 2020.07)
+* Teaching Assistant, Design and Analysis of Algorithms, Peking University (2017.09 – 2018.01)
+* Teaching Assistant, Advanced Mathematics C, Peking University (2017.03 – 2017.07)
 
 
