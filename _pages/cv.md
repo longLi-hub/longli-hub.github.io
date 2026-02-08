@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* 2024.02 -present, Research Scientist,
+* 2024.02 -present, Research Scientist
   * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Science
   * Mentor: Prof. Mourad Sini.
 
