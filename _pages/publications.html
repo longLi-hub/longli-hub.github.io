@@ -24,7 +24,11 @@ collection: publications
   {% include archive-single.html hide_status=true %}
 {% endfor %}
 
+{% assign accepted_count = accepted | size %}
+
+{% if accepted_count > 0 %}
 <h2>Accepted</h2><hr />
+
 {% for post in accepted %}
  {% include archive-single.html hide_status=true %}
 {% endfor %}
