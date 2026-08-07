@@ -64,6 +64,8 @@ Teaching
 Awards & Funding
 ======
 
+* FWF Erwin Schrödinger Fellowship, Austrian Science Fund (FWF), hosted at ETH Zurich, “Subwavelength Resonances in Coupled Acoustic-Elastic Systems” (Fellow，2026.10 – )
+
 * China Postdoctoral Science Foundation (first class), Grant No. 2022M720158a, "Uniqueness and efficient reconstruction algorithm for inverse scattering problems in a two-layered medium" (PI, 2022.11 - 2024.01)
 
 *  Peking University Presidential Scholarship, five academic years (2016.09 – 2021.06)
