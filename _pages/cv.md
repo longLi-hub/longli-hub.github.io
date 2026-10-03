@@ -23,15 +23,15 @@ Education
 Academic positions and affiliations
 ======
 * 2026.10 - present FWF Erwin Schrödinger Fellow, Academic Guest
-* ETH Zurich, Seminar for Applied Mathematics (SAM), Department of Mathematics, Zurich, Switzerland
-* Host: Prof. Habib Ammari
+  * ETH Zurich, Seminar for Applied Mathematics (SAM), Department of Mathematics, Zurich, Switzerland
+  * Host: Prof. Habib Ammari
 
 * 2024.02 - 2026.09, Research Scientist
   * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences, Linz, Austria
   * Mentor: Prof. Mourad Sini
 
 * 2021.07 - 2024.01, Postdoctoral Fellow
-   * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
+  * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
    * Mentor: Prof. Bo Zhang
 
 {% comment %}
