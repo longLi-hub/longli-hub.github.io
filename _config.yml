@@ -28,11 +28,11 @@ author:
   avatar           : "myself.jpg"
   name             : "Long Li"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher in applied mathematics"
-  location         : "Linz, Austria"
-  employer         : "Johann Radon Institute, Austrian Academy of Sciences"
+  bio              : "FWF Erwin Schrödinger Fellow"
+  location         : "Zürich, Switzerland"
+  employer         : "D-MATH / SAM, ETH Zürich"
   uri              : # URL
-  email            : "Long.Li@ricam.oeaw.ac.at" 
+  email            : "lilong@ethz.ch" 
 
   # Academic websites
   academia         : # URL
