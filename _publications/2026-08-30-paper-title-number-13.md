@@ -1,13 +1,13 @@
 ---
-title: "A time-domain pressure–interface model for gas bubble dynamics with surface tension: well-posedness, classical limits, and resonance branches"
+title: "Eigenvalue Asymptotics in High-Contrast Media"
 collection: publications
 category: manuscripts
-permalink: /publications/2026-07-04-paper-title-number-12
+permalink: /publications/2026-08-30-paper-title-number-13
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2026-07-04
+date: 2026-08-30
 status: Preprint
 venue: 'arXiv'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://arxiv.org/abs/2607.06064'
-citation: 'L. Li and M. Sini, A time-domain pressure–interface model for gas bubble dynamics with surface tension: well-posedness, classical limits, and resonance branches, arXiv:2607.06064.'
+paperurl: 'https://arxiv.org/abs/2608.30721'
+citation: 'L. Li and M. Sini, Eigenvalue Asymptotics in High-Contrast Media, arXiv:2608.30721.'
 ---
