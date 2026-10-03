@@ -22,7 +22,7 @@ Education
 
 Academic positions and affiliations
 ======
-* 2026.10 - present FWF Erwin Schrödinger Fellow, Academic Guest
+* 2026.10 - present, FWF Erwin Schrödinger Fellow, Academic Guest
   * ETH Zurich, Seminar for Applied Mathematics (SAM), Department of Mathematics, Zurich, Switzerland
   * Host: Prof. Habib Ammari
 
