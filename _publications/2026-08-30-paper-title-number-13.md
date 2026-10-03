@@ -9,5 +9,5 @@ status: Preprint
 venue: 'arXiv'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2608.30721'
-citation: 'L. Li and M. Sini, Eigenvalue Asymptotics in High-Contrast Media, arXiv:2608.30721.'
+citation: 'Huaian Diao, Long Li, Mourad Sini and Qilong Zhai, Eigenvalue Asymptotics in High-Contrast Media, arXiv:2608.30721.'
 ---
