@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at RICAM (Austrian Academy of Sciences). For my full academic profile and CV, please see [Career]({{ site.baseurl }}/cv/).
+I am an FWF Erwin Schrödinger Fellow and an Academic Guest at the Seminar for Applied Mathematics (SAM), Department of Mathematics (D-MATH), ETH Zurich. For my full academic profile and CV, please see [Career]({{ site.baseurl }}/cv/).
 
 My work sits at the interface of applied analysis and wave physics, with a focus on:
 
