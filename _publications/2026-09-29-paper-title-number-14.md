@@ -9,5 +9,5 @@ status: Preprint
 venue: 'arXiv'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2609.37423'
-citation: 'Huaian Diao, Long Li and Mourad Sini, Interface-shifted Minnaert resonances, arXiv:2609.37423.'
+citation: 'H. Diao, L. Li and M. Sini, Interface-shifted Minnaert resonances, arXiv:2609.37423.'
 ---
